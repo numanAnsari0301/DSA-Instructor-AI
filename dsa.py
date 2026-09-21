@@ -3,9 +3,9 @@ from google import genai
 from google.genai import types
 
 
-# ==========================================
+
 # PAGE CONFIG
-# ==========================================
+
 
 st.set_page_config(
     page_title="DSA Instructor AI",
@@ -15,9 +15,9 @@ st.set_page_config(
 )
 
 
-# ==========================================
+
 # CUSTOM CSS
-# ==========================================
+
 
 st.markdown("""
 <style>
@@ -40,9 +40,9 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-# ==========================================
+
 # GEMINI CLIENT
-# ==========================================
+
 
 client = genai.Client()
 
