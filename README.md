@@ -29,7 +29,7 @@ Ask a DSA question, choose a topic from the sidebar, and get an explanation from
 
 ### Asking a DSA Question
 
-![DSA Instructor AI Chat](images/chat-response)
+![DSA Instructor AI Chat](images\chat-response.png)
 
 ### AI Response
 
